@@ -1,0 +1,26 @@
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\Imperial Breaker.exe
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\Imperial Breaker.pdb
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\SharpDX.dll
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\SharpDX.xml
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\obj\x86\Debug\Imperial Breaker.csprojResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\obj\x86\Debug\Imperial Breaker.exe
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\obj\x86\Debug\Imperial Breaker.pdb
+C:\Users\Dylan\Documents\GitHub\CN-Imperial-Breaker\Imperial Breaker\bin\Windows\Debug\Content\citizen.png
